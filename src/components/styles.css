@@ -1,0 +1,16 @@
+/* styles.css */
+.rounded-icon {
+    border-radius: 50%;
+    overflow: hidden;
+  }
+  
+  .navbar-icon {
+    width: 30px;
+    height: 30px;
+    transition: color 0.3s ease;
+  }
+  
+  .navbar-icon:hover {
+    color: #a0aec0; /* สีเทาเข้มเมื่อ hover */
+  }
+  
